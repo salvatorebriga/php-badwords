@@ -6,7 +6,7 @@
     <title>Bad Word</title>
   </head>
   <body>
-    <form action="bad-word.php" method="POST">
+    <form action="bad-word.php" method="GET">
       <div>
         <label for="paragraph"> Paragrafo</label>
         <textarea
